@@ -20,7 +20,8 @@ My final report include each of the following:
 - [x] Number of Unique Items
 - [x] Average Purchase Price
 - [x] Total Number of Purchases
-* Total Revenue
+- [x] Total Revenue
+- [x] Summary Table
 
 ### Gender Demographics
 
