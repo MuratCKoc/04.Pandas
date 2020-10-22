@@ -18,7 +18,7 @@ My final report include each of the following:
 ### Purchasing Analysis (Total)
 
 - [x] Number of Unique Items
-* Average Purchase Price
+- [x] Average Purchase Price
 * Total Number of Purchases
 * Total Revenue
 
