@@ -25,9 +25,9 @@ My final report include each of the following:
 
 ### Gender Demographics
 
-* Percentage and Count of Male Players
-* Percentage and Count of Female Players
-* Percentage and Count of Other / Non-Disclosed
+- [x] Percentage and Count of Male Players
+- [x] Percentage and Count of Female Players
+- [x] Percentage and Count of Other / Non-Disclosed
 
 ### Purchasing Analysis (Gender)
 
