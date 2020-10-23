@@ -32,9 +32,9 @@ My final report include each of the following:
 ### Purchasing Analysis (Gender)
 
 * The below each broken by gender
-  * Purchase Count
-  * Average Purchase Price
-  * Total Purchase Value
+- [x] Purchase Count
+- [x] Average Purchase Price
+- [x] Total Purchase Value
   * Average Purchase Total per Person by Gender
 
 ### Age Demographics
