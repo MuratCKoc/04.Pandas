@@ -56,24 +56,23 @@ My final report include each of the following:
 ### Most Popular Items
 
 * Identify the 5 most popular items by purchase count, then list (in a table):
-  * Item ID
-  * Item Name
-  * Purchase Count
-  * Item Price
-  * Total Purchase Value
+- [x] Item ID
+- [x] Item Name
+- [x] Purchase Count
+- [x] Item Price
+- [x] Total Purchase Value
 
 ### Most Profitable Items
 
 * Identify the 5 most profitable items by total purchase value, then list (in a table):
-  * Item ID
-  * Item Name
-  * Purchase Count
-  * Item Price
-  * Total Purchase Value
+- [x] Item ID
+- [x] Item Name
+- [x] Purchase Count
+- [x] Item Price
+- [x] Total Purchase Value
 
 As final considerations:
 
 * A written description of three observable trends based on the data.
 
-* See [Example Solution](HeroesOfPymoli/HeroesOfPymoli_starter.ipynb) for a reference on expected format.
-
+* See [Solution](HeroesOfPymoli/HeroesOfPymoli.ipynb) for a reference on expected format.
