@@ -35,7 +35,7 @@ My final report include each of the following:
 - [x] Purchase Count
 - [x] Average Purchase Price
 - [x] Total Purchase Value
-  * Average Purchase Total per Person by Gender
+- [x] Average Purchase Total per Person by Gender
 
 ### Age Demographics
 
@@ -73,6 +73,12 @@ My final report include each of the following:
 
 As final considerations:
 
-* A written description of three observable trends based on the data.
+* Gender-based analysis shows that Other / Non-Disclosed represents 1.91% of the players spent $4.56 per person which is the highest rate. Females follow them representing only 14% of the players with $4.47 per person. More players do not mean more quality so quality over quantity is shown here.
+
+* "Final Critic" and "Oathbreaker, Last hope of the Breaking Storm" are the best selling items as well as the most profitable ones. Followed by "Nirvana" which is one of the most expensive items of the game by $4.90 selling price and "Fiery Glass Crusader" is another bright revenue generator for the future.
+
+* Purchase Age Analysis shows interesting facts. The players' age lower than ten is the second-highest average spenders with $4.54 following the top place of the players between 35 and 39 by $4.76 per person. Of course, the pro-gamers group generates a top revenue of $1,114. 
+
+* Heroes of Pymoli has players from various age groups. Attracting more players of the age group of 35-39, and adding more items for cheaper will make players buy more items. Keeping the price range of Tim Hortons regular coffee or small milk from the convenience store, so around $1.90-$2 always seems more attainable for any user who can drink coffee or drink milk or any other thing that they can substitute. Oh, It is okay not to drink a coffee today but get this item to finish this task faster kinda tasks/objectives specific items might generate more in-game micro sales.
 
 * See [Solution](HeroesOfPymoli/HeroesOfPymoli.ipynb) for a reference on expected format.
