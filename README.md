@@ -1,7 +1,7 @@
 # Pandas Challange - Pandas, Pandas, Pandas
 
 
-## Option 1: Heroes of Pymoli
+## Heroes of Pymoli
 
 ![Fantasy](Images/Fantasy.png)
 
@@ -31,7 +31,7 @@ My final report include each of the following:
 
 ### Purchasing Analysis (Gender)
 
-* The below each broken by gender
+
 - [x] Purchase Count
 - [x] Average Purchase Price
 - [x] Total Purchase Value
@@ -39,7 +39,7 @@ My final report include each of the following:
 
 ### Age Demographics
 
-* The below each broken into bins of 4 years (i.e. &lt;10, 10-14, 15-19, etc.)
+
 - [x] Purchase Count
 - [x] Average Purchase Price
 - [x] Total Purchase Value
@@ -47,7 +47,7 @@ My final report include each of the following:
 
 ### Top Spenders
 
-* Identify the the top 5 spenders in the game by total purchase value, then list (in a table):
+
 - [x] SN
 - [x] Purchase Count
 - [x] Average Purchase Price
@@ -55,7 +55,6 @@ My final report include each of the following:
 
 ### Most Popular Items
 
-* Identify the 5 most popular items by purchase count, then list (in a table):
 - [x] Item ID
 - [x] Item Name
 - [x] Purchase Count
